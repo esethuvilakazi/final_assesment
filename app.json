@@ -24,6 +24,15 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+    "FIREBASE_API_KEY": "AIzaSyAnTR7To90fkceJW_dS4jyyM6ofNTGG3I8",
+    "FIREBASE_AUTH_DOMAIN": "tutt-3d926.firebaseapp.com",
+    "FIREBASE_PROJECT_ID": "tutt-3d926",
+    "FIREBASE_STORAGE_BUCKET": "tutt-3d926.firebasestorage.app",
+    "FIREBASE_MESSAGING_SENDER_ID": "479151732943",
+    "FIREBASE_APP_ID": "1:479151732943:web:f085e2b612c3d04ea55fba",
+    "OPENWEATHER_API_KEY": "1763d7481c958396c0a15f80aa58191d"
     }
   }
 }
